@@ -7,7 +7,7 @@ How to run it:
 $ ./snmp.sh --help
 Usage: snmp.sh [--help] --ip IP 
 
-Bash script to discovery valid SNMP Community Strings, dump information, check write permissions and check for possible RCE via SNMP.
+SNMP Bash Script to discover valid community strings, dump basic information, check for write permission and check for RCE.
 
 Arguments:
 --help                   Show this help message and exit
