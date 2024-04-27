@@ -34,8 +34,6 @@ admin
 agent
 agent_steal
 all
-all private
-all public
 apc
 bintec
 blue
